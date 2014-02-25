@@ -1,0 +1,10 @@
+inherit kde4
+
+NAME="kdesdk-kioslaves"
+VERSION=4.11.5
+RELEASE=1
+CATEGORY="KDE"
+SUMMARY="KDE I/O support for Subversion and PerlDoc"
+DESCRIPTION="Part of the KDE developer tools suite"
+
+OBSOLETES="kde4-sdk-plugins"
